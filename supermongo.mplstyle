@@ -1,0 +1,38 @@
+# Save figure options:
+savefig.dpi             : 300.0
+savefig.format          : pdf
+savefig.bbox            : tight
+savefig.facecolor       : (1.0, 1.0, 1.0, 0.0)
+
+# Figure size:
+figure.figsize          : 5.5, 5.5
+
+# Simplify paths / reduce file size:
+path.simplify           : True
+
+# Font:
+font.family             : serif
+font.size               : 9.5
+
+# X ticks:
+xtick.top               : True
+xtick.bottom            : True
+xtick.minor.visible     : True
+xtick.major.size        : 6.0
+xtick.minor.size        : 3.0
+xtick.direction         : in
+xtick.labelsize         : small
+
+# Y ticks:
+ytick.left              : True
+ytick.right             : True
+ytick.minor.visible     : True
+ytick.major.size        : 6.0
+ytick.minor.size        : 3.0
+ytick.direction         : in
+ytick.labelsize         : small
+
+# Legend options:
+legend.numpoints        : 1
+legend.frameon          : False
+legend.handletextpad    : 0.3
